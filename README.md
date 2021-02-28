@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Welcome to my GitHub
+
+I am a data science instructor and career coach who is constantly learning, practicing, or building something new.
+
+#### You can reach out to me in the following ways:
+
+📫 faith.x.kane@gmail.com
+
+🖥 https://www.linkedin.com/in/faithkane/
 
 <!--
 **faithkane3/faithkane3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
