@@ -1,4 +1,4 @@
-### Welcome to my GitHub
+## Welcome to my GitHub
 
 My name is Faith Kane, and I'm a data science instructor and career coach who is constantly learning, practicing, or building something new. I work, live, and play with my family in Texas.
 
