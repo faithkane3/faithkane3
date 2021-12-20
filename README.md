@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 
-My name is Faith Kane, and I'm Marketing Analyst who is constantly learning, practicing, or building something new. I'm passionate about data visualization and storytelling and have an extensive background in education.  I currently work, live, and play with my family in Texas.
+My name is Faith Kane, and I'm a Decision Science Analyst who is constantly learning, practicing, or building something new. I currently use GitLab for work and am working hard in Tableau most days, so my GitHub activity has slowed down for the time being. I'm passionate about data visualization and storytelling and have an extensive background in education.  I currently work, live, and play with my family in Texas.
 
 ### You can reach out to me in the following ways:
 
